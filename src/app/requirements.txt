@@ -1,0 +1,4 @@
+web.py==0.40
+mysql-connector-python==8.0.19
+python-dotenv
+bcrypt
