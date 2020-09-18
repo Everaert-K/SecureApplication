@@ -1,3 +1,5 @@
+An application provided in a course on software security at the NTNU contained a lot of security flaws. In a group of 3 student the flaws had to be fixed.
+
 # How To use the two factor authentication using google authenticator
 1. Download google authenticator from the app-store
 2. Click on the red + in the app to create a new account (choose to use the key)
